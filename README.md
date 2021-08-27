@@ -23,7 +23,7 @@ _Et voilà_, you have your own pokedex running on an Android Emulator. Very usef
 * For some reason, if the app is installed and opened **before** the packager being running in the background, you have to restart the application for it to load.
 * It uses internet **VERY** extensively, you might want to run the app in a network without data transfer limits (such a home wifi).
 
-## Todo
+## TODO
 * Write tests
 * Translations
 * Actually test for iOS
