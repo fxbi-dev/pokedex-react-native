@@ -14,6 +14,7 @@ This project was developed and tested on:
 ## Setup Guide
 It should be easy as:
 1. `npm i`
+1. `npx react-native link` (`react-native-vector-icons` autolinking doesn't work)
 1. `npm start` (Starts the packager, needs to be running in the background)
 1. `npm run android`
 
