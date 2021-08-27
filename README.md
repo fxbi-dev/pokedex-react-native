@@ -26,4 +26,5 @@ _Et voilà_, you have your own pokedex running on an Android Emulator. Very usef
 ## TODO
 * Write tests
 * Translations
-* Actually test for iOS
+* Tests for iOS
+* Actually learn Pokemon (never touched the games before, the API is kinda overwhelming)
